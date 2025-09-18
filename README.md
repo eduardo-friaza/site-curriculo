@@ -1,2 +1,2 @@
-# site-curriculo
-Site do currículo 
+# Currículo Vitae 
+Desenvolvimento do site usando IA.
